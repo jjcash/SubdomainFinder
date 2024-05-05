@@ -13,7 +13,7 @@ This project was developed as a part of my college coursework for the class "Seg
 
 ## Usage
 1. Clone the repository to your local machine.
-2. Install the required dependencies by running `pip install -r requirements.txt`.
+2. Install the required dependencies.
 3. Run the `infoGatherUi.py` file to launch the application.
 4. Enter the domain and API key in the respective fields.
 5. Click the "Run" button to retrieve and display the subdomains.
